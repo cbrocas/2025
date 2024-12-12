@@ -37,9 +37,9 @@ We were really happy to see more people coming to our conference this year:
 - **+18% of attendees** present on the D day.
 
 Aside from the content of the conference, we can see in these positive numbers the impact of the efforts we've put into communication this year:
-- **channels:** we used 3 social networks (X, Mastodon, **<span style="color:#d00063">[new]</span>** LinkedIn) for each communication we made,
-- **frequency:** regularly since January, **<span style="color:#d00063">[new]</span>** weekly since May,
-- **targets:** **<span style="color:#d00063">[new]</span>** we tried to reach, without much success, local infosec communities.
+- **channels:** we used 3 social networks (X, Mastodon, **<span style="color:#800000">[new]</span>** LinkedIn) for each communication we made,
+- **frequency:** regularly since January, **<span style="color:#800000">[new]</span>** weekly since May,
+- **targets:** **<span style="color:#800000">[new]</span>** we tried to reach, without much success, local infosec communities.
 
 Regarding the relatively low number of attendees in general, there is a lack of students able to attend the conference at this time of the year, due to summer vacation and internships. This is one way to explain the difference with others free access conferences.
 
@@ -63,7 +63,7 @@ We think this is a good balance between:
 
 **Language:** attendees that can speak French: **91%** (2023: 90%,2022: 91%).
 *source: booking form*
-It is a very stable percentage since the COVID period. As we said last year, we have not fully recovered our audience usually coming from Germany, Netherlands, Belgium or UK. We would be really pleased to get in touch with networks in these countries. **<span style="color:#d00063">[help needed]</span>** So if you have any way to reach them, let's get in touch! 🙂
+It is a very stable percentage since the COVID period. As we said last year, we have not fully recovered our audience usually coming from Germany, Netherlands, Belgium or UK. We would be really pleased to get in touch with networks in these countries. **<span style="color:#800000">[help needed]</span>** So if you have any way to reach them, let's get in touch! 🙂
 
 ## Conference content
 

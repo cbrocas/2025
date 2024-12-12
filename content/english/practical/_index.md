@@ -7,7 +7,13 @@ lang: en
 ref: Practical
 ---
 
+Due to agenda conflict, we haven't been able to have Pass the SALT hosted by Polytech school as years before.<br><br>
 
+After some research, we are very pleased and honoured to announce that the **2025 edition of Pass the SALT conference will be held** on the beautiful **Université Catholique de Lille** campus in Lille center.
+
+More detailled information will come soon here.
+
+<!--
 <a href="#coming-to-the-conference-location-from-lille-center">How to come</a> | <a href="#registration"> Registration</a> | <a href="#eat--drink--party">Eat, drink and party</a> | <a href="#network-access">Network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
 <br><br>
 
@@ -109,4 +115,4 @@ At time of writing (December 2023), there is no longer mandatory measures for ha
 **Pauses:** they will be held inside the building due to mandatory access control.
 <br><br>
 
-**Social event:** we will be have an access to a terrace. So, we will be able to get fresh air and not to stay inside the building during all the evening. 
+**Social event:** we will be have an access to a terrace. So, we will be able to get fresh air and not to stay inside the building during all the evening. -->    
